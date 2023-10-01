@@ -1,5 +1,5 @@
-![logo](https://github.com/AnupMandal0505/AnupMandal0505/blob/main/github%20banner.jpg)
-
+//![logo](https://github.com/AnupMandal0505/AnupMandal0505/blob/main/github%20banner.jpg)
+<img align="right" height="400" src="https://github.com/AnupMandal0505/AnupMandal0505/blob/main/github%20banner.jpg">
 <h1 align="center">Hi 👋, I'm Anup Mandal</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
