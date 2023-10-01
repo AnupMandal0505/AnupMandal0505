@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/AnupMandal0505/AnupMandal0505/blob/main/github%20banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Anup Mandal</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
