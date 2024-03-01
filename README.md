@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on **Al-based tool for preliminary diagnosis of Dermatological manifestations**
 
 - ⚡ Fun fact **I am Funny 😅**
-- How to reach me anupmandal828109@gmail.com
-- Know about my experiences at My Resume
+- 📩 How to reach me anupmandal828109@gmail.com
+- 📃Know about my experiences at <a href="[https://linkedin.com/in/anup-mandal-334278202](https://drive.google.com/file/d/1t2apcxDf728FuUPY_egcTgl0XcMJRyHT/view?usp=sharing)" target="blank"My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
