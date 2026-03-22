@@ -16,7 +16,7 @@
 - 🚀 Developing a **Jira-like Task Management System** using Django DRF, Redis, and Celery Beat.
 - 🧠 Building an **AI-based tool** for preliminary dermatological diagnosis using data-driven predictions.
 - ⚡ **Fun Fact:** I'm funny, but my code is serious! 😅
-- 📃 Check out my updated **[Professional Resume](YOUR_GOOGLE_DRIVE_LINK_HERE)**.
+- 📃 Check out my updated **[Professional Resume](https://drive.google.com/file/d/12ZoBIEMzj7dIagnDlAJWBVQyv38ktYEO/view)**.
   
 ---
 
