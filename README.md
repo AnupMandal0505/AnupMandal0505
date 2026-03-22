@@ -12,12 +12,12 @@
 ---
 
 ### 👨‍💻 About Me
-- [cite_start]🔭 Currently working as a **Backend Developer** at **Divergent Consultancy Services**[cite: 89].
-- [cite_start]🚀 Developing a **Jira-like Task Management System** using Django DRF, Redis, and Celery Beat[cite: 100, 103].
-- [cite_start]🧠 Building an **AI-based tool** for preliminary dermatological diagnosis using data-driven predictions[cite: 24, 26].
+- 🔭 Currently working as a **Backend Developer** at **Divergent Consultancy Services**.
+- 🚀 Developing a **Jira-like Task Management System** using Django DRF, Redis, and Celery Beat.
+- 🧠 Building an **AI-based tool** for preliminary dermatological diagnosis using data-driven predictions.
 - ⚡ **Fun Fact:** I'm funny, but my code is serious! 😅
-- [cite_start]📃 Check out my updated **[Professional Resume](https://drive.google.com/file/d/12ZoBIEMzj7dIagnDlAJWBVQyv38ktYEO/view)**[cite: 76].
-
+- 📃 Check out my updated **[Professional Resume](YOUR_GOOGLE_DRIVE_LINK_HERE)**.
+  
 ---
 
 ### 🛠 Languages and Tools
